@@ -1,0 +1,40 @@
+body:
+- attributes:
+    label: Device you are applying for
+    description: 'Example: Pocophone F1 (beryllium)'
+  type: input
+  validations:
+    required: true
+- attributes:
+    description: One URL per line
+    label: Device Tree Sources
+  type: textarea
+  validations:
+    required: true
+- attributes:
+    label: Number of ROM's you maintain officially/unofficially
+  type: input
+  validations:
+    required: true
+- attributes:
+    label: Any special concern?
+  type: textarea
+  validations:
+    required: true
+- attributes:
+    label: Telegram username
+    description: 'Example: https://t.me/username'
+  type: input
+  validations:
+    required: true
+- attributes:
+    label: GitHub username
+    description: 'Example: https://github.com/username'
+  type: input
+  validations:
+    required: true
+name: Device maintainer form
+description: Apply for device maintainer role at aosPB-Project
+title: New maintainer
+assignees: [sajidshahriar72543]
+
