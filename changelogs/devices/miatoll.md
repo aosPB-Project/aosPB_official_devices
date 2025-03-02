@@ -1,3 +1,9 @@
+**February-2025 Update (Hotfix):**
+```
+- Fix an issue where the hotspot toggle makes the whole Settings app crash. 
+- Added back miuicamera
+```
+---
 **February-2025 Update:**
 ```
 Switched to prebuilt audio
