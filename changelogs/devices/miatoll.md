@@ -1,3 +1,9 @@
+**March-2025 Update:**
+```
+- Fixed low volume issue (hopefully)
+- Fixed a rare issue where RIL was crashing continuously
+```
+---
 **February-2025 Update (Hotfix):**
 ```
 - Fix an issue where the hotspot toggle makes the whole Settings app crash. 
